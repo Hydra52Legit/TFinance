@@ -209,7 +209,7 @@ Product → Test → UITests
 **Hydra**
 - GitHub: [@Hydra52Legit](https://github.com/Hydra52Legit)
 - Telegram: [@hydra52l](https://t.me/hydra52legit)
-- Email: alex.kornilov@example.com
+- Email: hydrawork777@gmail.com
 
 ## 🙏 Благодарности
 
