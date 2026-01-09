@@ -11,7 +11,8 @@ import SwiftUI
 struct TFinanceApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView()
+                .preferredColorScheme(.light)
         }
     }
 }
